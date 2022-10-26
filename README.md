@@ -7,7 +7,8 @@ I solve real life problem using programs, math models to solve problems by creat
 SQL, Python, Microsoft Powerbi, Excel...
 
 ## 🔗 Links
-[![linkedin](https://st3.depositphotos.com/1063437/36054/i/600/depositphotos_360541846-stock-photo-poznan-pol-mar-2020-laptop.jpg)](www.linkedin.com/in/sewa-akinteye-53bb4419b)
-[![twitter](https://images.pexels.com/photos/5417837/pexels-photo-5417837.jpeg?auto=compress&cs=tinysrgb&w=600)](https://twitter.com/ade_se_wa)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sewa-akinteye-53bb4419b)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ade_se_wa)
+
 
 
