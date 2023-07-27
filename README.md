@@ -1,8 +1,7 @@
 
 # Adesewa Akinteye
 
-I solve real life problem using programs, math models to solve problems by creating insights and providing optimal solutions.
-
+A Graduate with more than 2 years of experience in engineering, food and inventory sector. I've fostered a profound enthusiasm for utilizing information to derive insights and generate informed decision making. 
 ## 🛠 Skills
 SQL, Python, Microsoft Powerbi, Excel, ML...
 
